@@ -115,9 +115,10 @@ a:hover{
   text-align: left;
 }
 .social-media{
+  padding-top: 15px;
   background-color: black;
   width: 100%;
-  height: 100px;
+  height: 60px;
 }
 .sms-div{
   width: 7%;
@@ -159,4 +160,10 @@ a:hover{
 }
 .s-color{
   background-color: grey;
+}
+.loc-s{
+  height: auto;
+  position: relative;
+  bottom: 13px;
+  width:6%;
 }
