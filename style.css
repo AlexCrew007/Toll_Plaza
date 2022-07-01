@@ -153,9 +153,9 @@ a:hover{
   text-align: center;
 }
 .loc{
-  height:auto;
   position: relative;
   bottom: 13px;
+  height: auto;
   display: inline-block;
 }
 .s-color{
