@@ -152,6 +152,7 @@ a:hover{
   text-align: center;
 }
 .loc{
+  height:auto;
   position: relative;
   bottom: 13px;
   display: inline-block;
